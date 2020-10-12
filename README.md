@@ -1,8 +1,7 @@
-# Hi 👋, I'm <b>Emmanuel Villegas</b>
-## a fullstack developer from <b>Portuguesa, Venezuela</b> <img src="https://image.flaticon.com/icons/svg/197/197580.svg" width="18"/>
+<h1>Hi 👋, I'm <b>Emmanuel Villegas</b></h1>
+<p>A fullstack developer from <b>Portuguesa, Venezuela</b> <img src="https://image.flaticon.com/icons/svg/197/197580.svg" width="13"/> 
 
-
-### Things I code with:
+<h3>Things I code with:</h3>
 
 <p>
     <img alt="JavaScripts" src="https://img.shields.io/badge/-Javascripts-040d04?style=flat-square&logo=javascript" />
@@ -10,7 +9,7 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-040d04?style=flat-square&logo=Docker" />
 </p>
 
-### Front End with:
+<h3>Front End with:</h3>
 
 <p>
     <img alt="ReactJs" src="https://img.shields.io/badge/-React-040d04?style=flat-square&logo=react" />
@@ -20,7 +19,7 @@
     <img alt="ReactiveX" src="https://img.shields.io/badge/-ReactiveX-B7178C?style=flat-square&logo=ReactiveX" />
 </p>
 
-### Back end with:
+<h3>Back end with:</h3>
 
 <p>
     <img alt="Node.js" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=Node.js&logoColor=white" />  
@@ -30,14 +29,14 @@
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL" />
 </p>
 
-### Testing with:
+<h3>Testing with:</h3>
 
 <p>
     <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest" />
     <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=Cypress" />
 </p>
 
-### Where to find me:
+<h3>Where to find me:</h3>
 
 <p>
     <a href="mailto:emmanuelvillegasgonzalez@gmail.com" target="_blank">
