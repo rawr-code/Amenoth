@@ -1,5 +1,5 @@
 <h1 style="text-align:center;">
-    # Hi 👋, I'm <b>Emmanuel Villegas</b>
+    Hi 👋, I'm <b>Emmanuel Villegas</b>
     <br/>
     <span style="text-align:center; font-size: 20px">
         a fullstack developer from <b>Portuguesa, Venezuela</b>
@@ -33,7 +33,6 @@
     <img alt="Mongodb" src="https://img.shields.io/badge/-MongDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL" />  
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL" />
-    <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo GraphQL-311C87?style=flat-square&logo=Apollo GraphQL" />  
 </p>
 
 ### Testing with:
